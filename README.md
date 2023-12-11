@@ -11,4 +11,4 @@
 👉 <strong> Component testing </strong> </br>
  
 ### My certificate after the course
-  <img src = "https://github.com/StefanHristov1997/Java_Advanced_Course/assets/133797718/c13421c3-a433-409f-845c-ca7f0d3e30fb)" width="300" height="400" />
+  <img src = "https://github.com/StefanHristov1997/StefanHristov1997/assets/133797718/59b04347-9cf0-4b61-a2e2-aa30633b1b2d" width="300" height="400" />
